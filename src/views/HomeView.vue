@@ -1,6 +1,7 @@
 <template>
   <main>
     <Map :locations="locations" />
+    <p>Click on the pins above to see more information ^</p>
     <h3>Showing Locations:</h3>
 
     <div v-for="(information, name) in locations">
