@@ -29,3 +29,9 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### Environment
+
+- Operating System: macOS 15.7.3
+- Node.js: v20.20.0
+- npm: 10.8.2
